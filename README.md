@@ -3,7 +3,7 @@ A learning-focused collection of SQL scripts for data exploration, analytics, an
 These scripts are practice exercises that cover topics such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
 
 This repository is created as part of my learning journey in SQL and data analytics. It is meant to document my progress and practice applying SQL to real-world analytical scenarios.
-
+ 
 ---
 
 ## 🌟 About Me
